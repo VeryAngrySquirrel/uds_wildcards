@@ -1,0 +1,26 @@
+infant
+baby
+toddler
+child
+preteen
+tween
+college-aged
+older
+younger
+teen
+schoo-aged
+adolescent
+teenager
+young adult
+adult
+middle-aged
+senior
+elderly
+centenarian 
+newborn 
+juvenile
+youngster
+youth
+mature
+prime 
+golden years 

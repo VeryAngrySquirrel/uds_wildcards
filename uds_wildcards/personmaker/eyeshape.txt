@@ -1,0 +1,20 @@
+round
+almond
+hooded
+monolid
+upturned
+downturned
+deep-set
+prominent
+small
+large
+oval
+slanted
+wide-set
+close-set
+protruding
+closely spaced
+droopy
+cat-eye
+doe-eyed
+angular

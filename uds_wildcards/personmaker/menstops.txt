@@ -1,0 +1,32 @@
+t-shirt
+polo shirt
+button-down shirt
+dress shirt
+henley shirt
+tank top
+sweatshirt
+hoodie
+sweater
+cardigan
+v-neck sweater
+crewneck sweater
+pullover
+long-sleeve shirt
+flannel shirt
+rugby shirt
+muscle shirt
+mock neck shirt
+thermal shirt
+turtleneck sweater
+baseball jersey
+rugby polo
+golf shirt
+graphic tee
+henley henley (short-sleeve)
+henley henley (long-sleeve)
+polo henley
+raglan sleeve shirt
+work shirt
+fishing shirt
+football shirt
+soccer shirt

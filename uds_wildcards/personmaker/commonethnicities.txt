@@ -1,0 +1,50 @@
+american
+canadian
+scottish
+irish
+welsh
+spanish
+scandanavian
+swedish
+finnish
+russian
+inuit
+italian
+greek
+middle eastern
+south asian
+east asian
+caribbean
+central american
+south american
+polynesian
+pacific islander
+melanesian 
+chinese
+indian
+african
+european
+hispanic
+arab
+japanese
+korean
+russian
+native american
+filipino
+vietnamese
+pakistani
+iranian
+turkish
+brazilian
+mexican
+thai
+french
+german
+nigerian
+kenyan
+south african
+senegalese
+sudanese
+egyptian
+yemani
+romani

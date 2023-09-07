@@ -1,0 +1,20 @@
+single-breasted suit
+double-breasted suit
+three-piece suit
+peak lapel suit
+notch lapel suit
+shawl lapel suit
+tuxedo
+morning suit
+zoot suit
+seersucker suit
+linen suit
+tweed suit
+pinstripe suit
+plaid suit
+slim fit suit
+classic fit suit
+double-vented suit
+single-vented suit
+no-vent suit
+patch pocket suit

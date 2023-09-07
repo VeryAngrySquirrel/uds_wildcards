@@ -1,0 +1,11 @@
+straight
+wavy
+curly
+kinky
+frizzy
+smooth
+silky
+coarse
+fine
+thick
+thin

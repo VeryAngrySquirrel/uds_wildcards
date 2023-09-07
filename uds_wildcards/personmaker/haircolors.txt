@@ -1,0 +1,40 @@
+auburn
+black
+blond
+blue black
+brunette
+burgundy
+butterscotch
+caramel
+chestnut
+golden
+gray
+grey
+honey
+jet black
+mahogany
+maroon
+platinum
+red
+redhead
+silver
+strawberry blond
+white
+pink _streaked
+blue_streaked
+faded_multicolor
+bright_multicolor
+rainbow_streaked
+pink
+blue
+light_blue
+green
+bright_green
+red-streaked-black
+platinum blonde
+dirty blonde
+purple
+lavender
+teal
+orange
+ombre

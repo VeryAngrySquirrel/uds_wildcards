@@ -1,0 +1,30 @@
+blouse
+shirt
+t-shirt
+tank top
+camisole
+peplum top
+crop top
+sweater
+cardigan
+turtleneck
+tunic
+halter top
+off-the-shoulder top
+wrap top
+bodysuit
+button-down shirt
+polo shirt
+blazer
+kimono
+poncho
+tube top
+henley shirt
+ruffle top
+cold-shoulder top
+hoodie
+long-sleeve top
+crop hoodie
+crop cardigan
+peasant top
+cowl-neck top
