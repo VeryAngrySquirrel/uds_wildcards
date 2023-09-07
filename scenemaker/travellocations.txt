@@ -1,0 +1,40 @@
+airport
+train station
+bus terminal
+metro station
+port
+ferry terminal
+cruise terminal
+tram stop
+taxi stand
+intermodal transportation center
+highway rest area
+park and ride facility
+heliport
+spaceport (for space travel)
+monorail station
+cable car station
+international border crossing
+toll plaza
+bike-sharing station
+car rental agency
+tourist information center
+transit mall
+transit hub plaza
+transport interchange
+bus rapid transit (brt) station
+light rail station
+commuter rail station
+high-speed rail station
+subway interchange
+bus depot
+seaplane base
+airstrip
+hyperloop station (emerging technology)
+maglev train station (magnetic levitation)
+electric vehicle charging station
+motorway service area
+inland port (for shipping containers)
+rideshare pickup point
+electric scooter or bike charging station
+pedestrian bridge or tunnel connecting transportation modes

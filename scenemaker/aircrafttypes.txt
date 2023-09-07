@@ -1,0 +1,40 @@
+__airplanes__
+helicopter
+glider
+hot air balloon
+airship (or dirigible)
+biplane
+triplane
+quadcopter (drone)
+seaplane
+floatplane
+bush plane
+fighter jet
+bomber
+cargo plane
+passenger jet
+regional jet
+private jet
+crop duster
+amphibious aircraft
+cargo helicopter
+search and rescue helicopter
+medical evacuation helicopter
+police helicopter
+observation balloon
+paraglider
+hang glider
+ultralight aircraft
+microlight aircraft
+sailplane
+business jet
+crop dusting aircraft
+airliner
+glider
+reconnaissance aircraft
+spy plane
+aerial tanker
+spaceplane
+supersonic transport (sst)
+air ambulance
+banner-towing plane

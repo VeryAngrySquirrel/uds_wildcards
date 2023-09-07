@@ -1,0 +1,40 @@
+mountain
+valley
+canyon
+plateau
+hill
+cliff
+ridge
+volcano
+crater
+glacier
+river
+lake
+waterfall
+cave
+gorge
+desert
+dune
+peninsula
+archipelago
+fjord
+delta
+tundra
+wetland
+fault
+sinkhole
+karst landscape
+lava field
+atoll
+escarpment
+oasis
+lagoon
+moraine
+hot spring
+geothermal vent
+coral reef
+geysers
+estuary
+alluvial plain
+coastal dunes
+submarine canyon

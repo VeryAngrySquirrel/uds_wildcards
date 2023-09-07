@@ -1,0 +1,40 @@
+bungalow
+cottage
+mansion
+villa
+cabin
+townhouse
+duplex
+condo
+apartment
+ranch
+tudor
+colonial
+victorian
+craftsman
+contemporary
+modern
+log cabin
+farmhouse
+chalet
+castle
+mobile home
+treehouse
+yurt
+igloo
+a-frame
+beach house
+loft
+houseboat
+tiny house
+adobe house
+geodesic dome
+palatial
+lighthouse
+floating home
+igloo
+longhouse
+chateau
+treehouse
+mediterranean
+cape cod

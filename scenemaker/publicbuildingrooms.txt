@@ -1,0 +1,40 @@
+lobby
+reception area
+auditorium
+meeting room
+conference room
+waiting room
+exhibition hall
+gallery
+atrium
+cafeteria or food court
+restroom or washroom
+information desk or kiosk
+ticket booth or box office
+vestibule
+escalator or elevator area
+staircase or stairwell
+corridor or hallway
+library
+study room
+computer lab
+classroom
+lecture hall
+gymnasium
+sports arena
+swimming pool
+fitness center
+art studio
+music room
+theater or playhouse
+green room
+studio or workshop
+boardroom
+laboratory
+gallery
+courtroom
+jury room
+chapel or prayer room
+chapel or prayer room
+lounge or common area
+childcare or daycare facility

@@ -1,0 +1,40 @@
+sedan
+coupe
+convertible
+hatchback
+station wagon
+suv (sport utility vehicle)
+crossover
+minivan
+pickup truck
+roadster
+sports car
+luxury car
+electric car
+hybrid car
+plug-in hybrid car
+compact car
+subcompact car
+muscle car
+off-road vehicle
+vintage car
+classic car
+microcar
+supercar
+limousine
+compact suv
+midsize suv
+full-size suv
+4x4 (four-wheel drive)
+autonomous car (self-driving)
+city car
+estate car
+hot hatch
+pickup truck
+supercar
+hypercar
+luxury suv
+electric suv
+racing car
+concept car
+police car

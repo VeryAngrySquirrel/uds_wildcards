@@ -1,0 +1,40 @@
+living room
+kitchen
+dining room
+bedroom
+bathroom
+master bedroom
+guest room
+home office
+study
+nursery
+family room
+playroom
+laundry room
+mudroom
+foyer
+powder room (half-bath)
+walk-in closet
+pantry
+basement
+attic
+home theater
+exercise room or gym
+game room
+sunroom
+library
+wine cellar
+craft room
+workshop
+guest bathroom
+walk-in shower
+walk-in pantry
+utility room
+conservatory
+music room
+bar or lounge
+dressing room
+billiard room
+breakfast nook
+solarium
+meditation room

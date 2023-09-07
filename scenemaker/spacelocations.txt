@@ -1,0 +1,40 @@
+planet
+moon
+star
+comet
+asteroid
+meteoroid
+galaxy
+nebula
+black hole
+quasar
+constellation
+solar system
+oort cloud
+kuiper belt
+hubble space telescope
+space station
+space probe
+space shuttle
+observatory
+international space station (iss)
+lagrange point
+exoplanet
+milky way
+andromeda galaxy
+orion nebula
+asteroid belt
+white dwarf
+red giant
+supermassive black hole
+supernova
+interstellar medium
+celestial equator
+celestial pole
+cosmic microwave background radiation
+event horizon
+planetary nebula
+lunar crater
+geosynchronous orbit
+meteor shower
+spaceport

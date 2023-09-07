@@ -1,0 +1,50 @@
+tokyo, japan
+delhi, india
+shanghai, china
+são paulo, brazil
+mumbai, india
+beijing, china
+cairo, egypt
+dhaka, bangladesh
+mexico city, mexico
+osaka, japan
+karachi, pakistan
+chongqing, china
+buenos aires, argentina
+istanbul, turkey
+kolkata (calcutta), india
+lagos, nigeria
+kinshasa, democratic republic of the congo
+manila, philippines
+rio de janeiro, brazil
+guangzhou, china
+lahore, pakistan
+shenzhen, china
+bangalore, india
+moscow, russia
+tianjin, china
+jakarta, indonesia
+lima, peru
+bangkok, thailand
+chennai (madras), india
+new york city, united states
+nairobi, kenya
+ho chi minh city (saigon), vietnam
+hyderabad, india
+bogotá, colombia
+ahmedabad, india
+kuala lumpur, malaysia
+london, united kingdom
+santiago, chile
+singapore
+pune, india
+riyadh, saudi arabia
+washington, d.c., united states
+miami, united states
+boston, united states
+hanoi, vietnam
+dallas, united states
+philadelphia, united states
+chicago, united states
+atlanta, united states
+houston, united states

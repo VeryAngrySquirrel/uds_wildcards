@@ -1,0 +1,40 @@
+pickup truck
+suv (sport utility vehicle)
+compact suv
+midsize suv
+full-size suv
+crossover suv
+off-road suv
+luxury suv
+electric suv
+hybrid suv
+minivan
+cargo van
+panel van
+box truck
+flatbed truck
+dump truck
+tow truck
+tanker truck
+refrigerated truck
+bucket truck (cherry picker)
+fire truck
+ambulance
+food truck
+tow-truck
+garbage truck
+cement mixer truck
+logging truck
+haulage truck
+semi-trailer truck (semi or 18-wheeler)
+concrete pump truck
+utility truck
+crane truck
+water truck
+military truck
+armored truck
+horse trailer
+car transporter (auto hauler)
+street sweeper
+snowplow truck
+mail delivery truck

@@ -1,0 +1,33 @@
+concrete
+bricks
+wood
+steel
+stone
+glass
+cement
+plaster
+asphalt
+shingle
+ceramic tiles
+plywood
+reinforced concrete
+cinderblocks
+steel
+aluminum
+vinyl siding
+stucco
+terracotta
+quartz
+marble
+granite
+limestone
+slate
+timber 
+copper 
+plastic
+electrical wiring
+glass
+glass blocks
+brick veneer
+concrete panels
+ 

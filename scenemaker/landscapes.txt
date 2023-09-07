@@ -1,0 +1,40 @@
+desert
+forest
+grassland
+tundra
+wetland
+marsh
+swamp
+prairie
+savannah
+rainforest
+alpine
+coastal
+mountainous
+arid
+volcanic
+riverine
+coastal dunes
+fjord
+plateau
+oasis
+canyon
+badlands
+delta
+karst
+lagoon
+estuary
+coral reef
+steppe
+taiga
+chaparral
+highland
+lowland
+fen
+heath
+fen
+sinkhole
+escarpment
+piedmont
+lava fields
+savanna woodland

@@ -1,0 +1,40 @@
+citadel
+castle
+keep
+moat
+bastion
+turret
+wall
+rampart
+drawbridge
+portcullis
+barbican
+dungeon
+curtain wall
+gatehouse
+redoubt
+star fort
+hillfort
+coastal fort
+mountain fortress
+hill castle
+island fortress
+medieval fortress
+coastal battery
+fortified city
+border fort
+water fortress
+underground bunker
+watchtower
+stronghold
+blockhouse
+citadel palace
+fortified bridge
+tower house
+hillside fort
+outer bailey
+inner bailey
+curtain wall
+bastion fort
+earthworks
+fortified village

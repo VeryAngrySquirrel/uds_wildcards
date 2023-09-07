@@ -1,0 +1,40 @@
+stadium
+arena
+gymnasium
+field
+court
+track
+swimming pool
+ice rink
+velodrome
+racetrack
+tennis court
+golf course
+cricket ground
+baseball diamond
+football field
+soccer field
+rugby pitch
+basketball court
+volleyball court
+hockey rink
+bowling alley
+climbing gym
+martial arts dojo
+boxing ring
+wrestling mat
+skatepark
+equestrian center
+archery range
+shooting range
+sports complex
+sports hall
+aquatic center
+multi-purpose facility
+ski resort
+snowboarding park
+bmx track
+sailing club
+yacht club
+canoe and kayak center
+polo field

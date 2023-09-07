@@ -1,0 +1,40 @@
+skyscraper
+office building
+residential building
+shopping mall
+factory
+warehouse
+school
+hospital
+library
+museum
+church
+synagogue
+mosque
+temple
+stadium
+arena
+convention center
+government building
+courthouse
+city hall
+police station
+fire station
+post office
+bank
+restaurant
+hotel
+casino
+theater
+movie theater
+gas station
+airport
+train station
+bus terminal
+port
+lighthouse
+windmill
+power plant
+water treatment plant
+radio tower
+observatory

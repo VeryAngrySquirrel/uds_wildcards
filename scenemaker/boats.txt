@@ -1,0 +1,40 @@
+sailboat
+yacht
+catamaran
+trimaran
+canoe
+kayak
+rowboat
+dinghy
+paddleboard (paddleboard)
+inflatable boat
+fishing boat
+trawler
+lobster boat
+speedboat
+cabin cruiser
+houseboat
+pontoon boat
+jet ski (personal watercraft)
+hydrofoil boat
+hovercraft
+submarine
+barge
+cargo ship
+container ship
+oil tanker
+ferry
+cruise ship
+catboat
+gondola
+sailfish boat
+shrimping boat
+pirogue
+punt
+dhow
+whaler
+dory
+gulet
+banana boat
+tugboat
+lifeboat

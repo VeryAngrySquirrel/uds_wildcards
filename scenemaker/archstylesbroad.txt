@@ -1,0 +1,20 @@
+renaissance
+baroque
+neoclassical
+gothic
+art nouveau
+art deco
+modernism
+brutalism
+postmodernism
+contemporary
+minimalism
+high-tech
+bauhaus
+mediterranean
+japanese
+chinese
+indian
+islamic
+african
+south american

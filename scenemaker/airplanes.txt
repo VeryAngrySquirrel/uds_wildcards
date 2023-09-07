@@ -1,0 +1,40 @@
+commercial airliner
+passenger jet
+regional jet
+private jet
+business jet
+cargo plane
+turboprop aircraft
+single-engine piston aircraft
+twin-engine piston aircraft
+light sport aircraft (lsa)
+glider
+ultralight aircraft
+amphibious aircraft
+seaplane
+floatplane
+bush plane
+crop duster (agricultural aircraft)
+biplane
+triplane
+military fighter jet
+bomber aircraft
+cargo transport aircraft
+reconnaissance aircraft
+air ambulance
+observation aircraft
+trainer aircraft
+cargo helicopter
+search and rescue helicopter
+medical evacuation helicopter
+attack helicopter
+vtol aircraft (vertical takeoff and landing)
+stol aircraft (short takeoff and landing)
+agricultural drone
+passenger drone
+experimental aircraft
+supersonic jet
+spaceplane
+airship (dirigible)
+drone (unmanned aerial vehicle, uav)
+glider tug (towing gliders)
