@@ -1,0 +1,20 @@
+abstract style,  the image should be  non-representational, using shapes, colors, and forms to evoke emotions and concepts.
+minimalistic style,  the image should be  simple, uncluttered compositions with a focus on essential elements.
+surrealistic style,  the image should be  dreamlike, fantastical imagery that blurs the line between reality and fantasy.
+impressionistic style,  the image should be  evokes mood and atmosphere through loose brushwork or blurred details.
+pop art style,  the image should be  bold, vibrant colors and everyday objects to comment on consumer culture.
+street photography style,  the image should be  candid, unposed shots of urban life, capturing authentic moments.
+documentary style,  the image should be  objective and journalistic, documenting real-life events and subjects.
+conceptual style,  the image should be  emphasizes the idea or concept behind the artwork over its physical form.
+collage style,  the image should be  assembling various materials or images to create a new visual composition.
+mixed media style,  the image should be  combines different materials and techniques to create layered, textured art.
+hyperrealism style,  the image should be  detailed, lifelike representations that appear almost photographic.
+abstract expressionism style,  the image should be  gestural and emotional, often featuring bold brushstrokes.
+digital manipulation style,  the image should be  alters and manipulates images using software for creative effects.
+contemporary portraiture style,  the image should be  innovative approaches to capturing the human form and personality.
+architectural photography style,  the image should be  showcases the design, geometry, and details of structures.
+cinematic photography style,  the image should be  emulates the aesthetics of film with dramatic lighting and composition.
+fashion photography style,  the image should be  focuses on clothing, accessories, and style in a visually striking way.
+macro photography style,  the image should be  extreme close-ups to reveal intricate details of small subjects.
+street art style,  the image should be  public, often illegal art forms, including graffiti and stencils.
+mixed reality style,  the image should be  blends digital and physical elements, creating immersive experiences.

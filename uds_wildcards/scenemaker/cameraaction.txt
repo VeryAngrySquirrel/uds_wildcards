@@ -1,0 +1,40 @@
+eye-level
+low angle
+high angle
+bird's-eye view
+worm's-eye view
+Dutch angle
+over-the-shoulder
+point of view
+two-shot
+close-up
+extreme close-up
+medium shot
+long shot
+extreme long shot
+wide shot
+establishing shot
+tracking shot
+dolly shot
+crane shot
+aerial shot
+handheld shot
+tilt
+pan
+zoom in
+zoom out
+rack focus
+shallow depth of field
+deep depth of field
+split screen
+freeze frame
+slow motion
+time-lapse
+iris shot
+match cut
+jump cut
+cutaway
+reaction shot
+insert shot
+reverse shot
+canted angle

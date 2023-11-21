@@ -1,0 +1,40 @@
+casement window
+double-hung window
+single-hung window
+awning window
+sliding window
+bay window
+bow window
+picture window
+transom window
+skylight window
+jalousie window
+hopper window
+clerestory window
+arched window
+round window
+oval window
+fixed window
+leaded glass window
+stained glass window
+tilt and turn window
+pivot window
+louvre window
+garden window
+dormer window
+cathedral window
+porthole window
+storm window
+louvered window
+egress window
+french window
+sash window
+transom window
+skylight window
+sidelight window
+hopper window
+mullioned window
+bay window
+oriel window
+lancet window
+fanlight window

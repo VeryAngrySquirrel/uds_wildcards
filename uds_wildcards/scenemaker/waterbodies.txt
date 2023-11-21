@@ -1,0 +1,50 @@
+ocean
+sea
+lake
+river
+pond
+stream
+creek
+bay
+gulf
+fjord
+estuary
+sound
+strait
+canal
+channel
+inlet
+lagoon
+reservoir
+loch
+marsh
+swamp
+bog
+delta
+waterfall
+spring
+oasis
+cove
+lagoon
+pool
+tarn
+moat
+fen
+tidal pool
+hot spring
+sinkhole
+atoll
+coral reef
+ice floe
+iceberg
+mudflat
+sandbar
+strait
+tarn
+vernal pool
+oxbow lake
+backwater
+billabong
+slough
+thermal spring
+geothermal pool

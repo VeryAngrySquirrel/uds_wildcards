@@ -1,0 +1,12 @@
+__uds_wildcards/scenemaker/actionmoviescenes__
+__uds_wildcards/scenemaker/dessertscenes_hahaha__
+__uds_wildcards/scenemaker/historicalscenes__
+__uds_wildcards/scenemaker/industrialscenes__
+__uds_wildcards/scenemaker/mountainscenes__
+__uds_wildcards/scenemaker/outdooractivityscenes__
+__uds_wildcards/scenemaker/romanticscenes__
+__uds_wildcards/scenemaker/smalltownscenes__
+__uds_wildcards/scenemaker/sportandhobbyscenes__
+__uds_wildcards/scenemaker/urbanscenes__
+__uds_wildcards/scenemaker/watersidescenes__
+__uds_wildcards/scenemaker/worldruralscenes__

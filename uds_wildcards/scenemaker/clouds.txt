@@ -1,0 +1,38 @@
+cirrus
+cirrostratus
+cirrocumulus
+altocumulus
+altostratus
+nimbostratus
+stratocumulus
+stratus
+cumulus
+cumulonimbus
+mammatus
+lenticular
+shelf cloud
+roll cloud
+wall cloud
+funnel cloud
+pileus
+pyrocumulus
+noctilucent
+contrail
+banner cloud
+pile d'assiettes
+morning glory cloud
+horseshoe vortex
+cap cloud
+wave cloud
+kelvin-helmholtz cloud
+tuba cloud
+hole punch cloud
+pileus cloud
+fallstreak hole
+horseshoe cloud
+arcus cloud
+flammagenitus cloud
+homogenitus cloud
+homomutatus cloud
+homogenitus cloud
+homomutatus cloud

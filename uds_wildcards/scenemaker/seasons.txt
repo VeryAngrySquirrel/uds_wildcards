@@ -1,0 +1,18 @@
+spring
+early spring
+mid-spring
+late spring
+vernal
+summer
+early summer
+mid-summer
+late summer
+autumn
+early autumn
+mid-autumn
+late autumn
+fall
+winter
+early winter
+mid-winter
+late winter

@@ -1,0 +1,30 @@
+arch bridge
+beam bridge
+suspension bridge
+cable-stayed bridge
+truss bridge
+cantilever bridge
+drawbridge
+bascule bridge
+swing bridge
+pedestrian bridge
+covered bridge
+viaduct
+aqueduct
+trestle bridge
+moon bridge
+floating bridge
+footbridge
+causeway
+girder bridge
+viaduct
+box girder bridge
+cable bridge
+simple suspension bridge
+bowstring arch bridge
+cantilever spar cable-stayed bridge
+balanced cantilever bridge
+tied-arch bridge
+cable-stayed suspension bridge
+moon gate bridge
+stepping stone bridge

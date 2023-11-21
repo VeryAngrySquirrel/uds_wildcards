@@ -1,0 +1,105 @@
+sydney - sydney opera house: an iconic architectural masterpiece and a global symbol of Sydney.
+sydney - sydney harbour bridge: a towering bridge offering breathtaking views of the harbor and city skyline.
+sydney - bondi beach: a world-famous beach known for its golden sands and surf culture.
+sydney - the rocks: a historic area with cobbled streets, markets, and colonial-era buildings.
+sydney - darling harbour: a bustling waterfront precinct with dining, entertainment, and attractions.
+sydney - taronga zoo: a wildlife park with stunning harbor views and a wide variety of animals.
+sydney - circular quay: a major transportation hub with ferries and stunning views of the opera house.
+sydney - the royal botanic garden: a lush garden with exotic plants, themed gardens, and scenic views.
+sydney - manly beach: a picturesque beach accessible by ferry, offering water sports and coastal walks.
+sydney - bondi to coogee coastal walk: a stunning coastal trail with panoramic ocean views.
+sydney - art gallery of new south wales: an art museum housing a diverse collection of artworks.
+sydney - hyde park: a green oasis in the city center with fountains, statues, and shady trees.
+sydney - australian museum: a museum showcasing indigenous cultures, natural history, and science.
+sydney - paddington markets: a lively market with boutique shops, crafts, and artisan goods.
+sydney - mrs. macquarie's chair: a historic stone chair with panoramic views of the harbour.
+sydney - sydney tower eye: an observation deck providing 360-degree views of the city.
+sydney - chinese garden of friendship: a tranquil garden with pagodas, ponds, and exotic plants.
+sydney - sea life sydney aquarium: an underwater adventure with marine life and interactive exhibits.
+sydney - queen victoria building: a historic shopping center with stunning architecture.
+sydney - cockatoo island: a UNESCO world heritage site with historic buildings and art installations.
+melbourne - federation square: a cultural precinct with museums, galleries, and public events.
+melbourne - royal botanic gardens: a lush garden with a diverse collection of plants and scenic lakes.
+melbourne - melbourne cricket ground (mcg): an iconic sports stadium with a rich history.
+melbourne - national gallery of victoria: an art museum with an extensive collection of artworks.
+melbourne - queen victoria market: a bustling market with fresh produce, clothing, and artisan goods.
+melbourne - eureka tower: a skyscraper with an observation deck offering panoramic views of the city.
+melbourne - melbourne zoo: a wildlife park with a variety of animals and immersive exhibits.
+melbourne - state library of victoria: a historic library with a magnificent reading room and exhibitions.
+melbourne - hosier lane: a famous street art laneway known for its ever-changing graffiti.
+melbourne - royal arcade: a historic shopping arcade with boutique stores and a stunning interior.
+melbourne - old melbourne gaol: a former prison turned museum with a focus on colonial history.
+melbourne - yarra river: a picturesque river with walking paths, river cruises, and dining options.
+melbourne - federation square: a cultural precinct with museums, galleries, and public events.
+melbourne - royal botanic gardens: a lush garden with a diverse collection of plants and scenic lakes.
+melbourne - melbourne cricket ground (mcg): an iconic sports stadium with a rich history.
+melbourne - national gallery of victoria: an art museum with an extensive collection of artworks.
+melbourne - queen victoria market: a bustling market with fresh produce, clothing, and artisan goods.
+melbourne - eureka tower: a skyscraper with an observation deck offering panoramic views of the city.
+melbourne - melbourne zoo: a wildlife park with a variety of animals and immersive exhibits.
+melbourne - state library of victoria: a historic library with a magnificent reading room and exhibitions.
+brisbane - south bank parklands: a riverside park with gardens, swimming areas, and cultural attractions.
+brisbane - story bridge: an iconic bridge offering opportunities for climbing and scenic views.
+brisbane - queensland art gallery: an art museum featuring a diverse collection of artworks.
+brisbane - lone pine koala sanctuary: a wildlife sanctuary where visitors can interact with koalas and other animals.
+brisbane - city botanic gardens: a historic garden with lush greenery and walking paths.
+brisbane - museum of brisbane: a museum showcasing the history and culture of the city.
+brisbane - gallery of modern art (goma): an art museum with a focus on contemporary and modern art.
+brisbane - wheel of brisbane: a giant observation wheel providing panoramic views of the city.
+brisbane - queensland museum: a museum featuring exhibitions on natural history, cultural heritage, and science.
+brisbane - roma street parkland: a large urban park with gardens, water features, and picnicking areas.
+brisbane - brisbane city hall: a historic building with an impressive clock tower and a museum.
+brisbane - south bank parklands: a riverside park with gardens, swimming areas, and cultural attractions.
+brisbane - story bridge: an iconic bridge offering opportunities for climbing and scenic views.
+brisbane - queensland art gallery: an art museum featuring a diverse collection of artworks.
+brisbane - lone pine koala sanctuary: a wildlife sanctuary where visitors can interact with koalas and other animals.
+brisbane - city botanic gardens: a historic garden with lush greenery and walking paths.
+brisbane - museum of brisbane: a museum showcasing the history and culture of the city.
+brisbane - gallery of modern art (goma): an art museum with a focus on contemporary and modern art.
+brisbane - wheel of brisbane: a giant observation wheel providing panoramic views of the city.
+brisbane - queensland museum: a museum featuring exhibitions on natural history, cultural heritage, and science.
+perth - kings park and botanic garden: a vast park with native flora, walking trails, and city views.
+perth - swan river: a scenic river with opportunities for cruises, water sports, and picnics.
+perth - fremantle prison: a historic prison complex offering guided tours and insights into convict history.
+perth - perth mint: a historic mint with exhibitions on gold mining and coin-making.
+perth - art gallery of western australia: an art museum featuring a diverse collection of artworks.
+perth - cottesloe beach: a popular beach known for its white sands and clear waters.
+perth - scarborough beach: a lively beach with dining options, water sports, and sunsets.
+perth - fremantle: a historic port city with markets, street art, and maritime attractions.
+perth - pinnacles desert: a unique desert landscape with limestone formations in nambung national park.
+perth - perth zoo: a wildlife park with a variety of animals and conservation efforts.
+perth - kings park and botanic garden: a vast park with native flora, walking trails, and city views.
+perth - swan river: a scenic river with opportunities for cruises, water sports, and picnics.
+perth - fremantle prison: a historic prison complex offering guided tours and insights into convict history.
+perth - perth mint: a historic mint with exhibitions on gold mining and coin-making.
+perth - art gallery of western australia: an art museum featuring a diverse collection of artworks.
+perth - cottesloe beach: a popular beach known for its white sands and clear waters.
+perth - scarborough beach: a lively beach with dining options, water sports, and sunsets.
+perth - fremantle: a historic port city with markets, street art, and maritime attractions.
+perth - pinnacles desert: a unique desert landscape with limestone formations in nambung national park.
+perth - perth zoo: a wildlife park with a variety of animals and conservation efforts.
+great barrier reef: the world's largest coral reef system, known for its stunning marine biodiversity.
+Australia - uluru (ayers rock): a massive sandstone rock formation in the northern territory, sacred to indigenous australians.
+Australia - kakadu national park: a vast wilderness area with diverse ecosystems, ancient rock art, and wildlife.
+Australia - blue mountains national park: a world heritage-listed park with rugged terrain, waterfalls, and hiking trails.
+Australia - kangaroo island: australia's third-largest island known for its wildlife, pristine beaches, and natural beauty.
+Australia - tasmania's cradle mountain: a stunning peak in cradle mountain-lake st clair national park.
+Australia - daintree rainforest: a lush tropical rainforest in queensland, home to unique flora and fauna.
+Australia - great ocean road: a scenic coastal drive in victoria with limestone cliffs and the twelve apostles.
+Australia - wilsons promontory national park: a peninsula in victoria with pristine beaches and hiking trails.
+Australia - fraser island: the world's largest sand island, known for its freshwater lakes and dingoes.
+Australia - the whitsundays: a group of islands in queensland's great barrier reef with white sandy beaches.
+Australia - the pinnacles: limestone formations in nambung national park, western australia.
+Australia - the ghan: an iconic train journey connecting adelaide to darwin through the outback.
+Australia - the barossa valley: a renowned wine region in south australia, famous for shiraz and gourmet food.
+Australia - the kimberley: a remote and rugged region in western australia known for its natural beauty.
+Australia - wilpena pound: a natural amphitheater in the flinders ranges, south australia.
+Australia - the great sandy desert: a vast desert region spanning western australia and the northern territory.
+Australia - the nullarbor plain: a vast arid region known for its flatness and unique landscapes.
+Australia - shark bay: a world heritage site in western australia with marine life and stromatolites.
+Australia - the australian alps: a mountainous region spanning new south wales and victoria, popular for skiing and hiking.
+Australia - the simpson desert: a remote desert with vast sand dunes in south australia, the northern territory, and queensland.
+Australia - cape york peninsula: a remote and rugged peninsula in queensland, known for its wilderness.
+Australia - the bungle bungles: striped sandstone domes in purnululu national park, western australia.
+Australia - the snowy mountains: a mountain range in new south wales, popular for winter sports and hiking.
+Australia - lord howe island: a world heritage-listed island in the tasman sea with diverse marine life.
